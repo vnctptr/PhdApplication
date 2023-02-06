@@ -1,0 +1,36 @@
+.card-container {
+    max-width: 60em;
+    /* padding: 3em; */
+    /* margin: 0 3em; */
+}
+
+
+.card-container-top {
+    color: #000000;
+    padding: 3em 0;
+}
+
+.card-container-middle {
+    background-image: linear-gradient(to top right, #ff003c , #ff4d00);
+    border-radius: 56px;
+    color: #ffffff;
+    margin: 2em 0;
+    padding: 3em;
+
+}
+
+.card-container-bottom {
+    color: #000000;
+    padding: 3em 0;
+}
+
+
+.card-outer {
+    display: flex;
+    justify-content: center;
+}
+
+
+.card-content {
+display: flex;
+}

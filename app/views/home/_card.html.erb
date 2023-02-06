@@ -1,0 +1,12 @@
+<%= stylesheet_link_tag "card" %>
+
+<div class="card-outer">
+    <div class="card-container <%= class_names('card-container-top': locals[:type] == 'top', 'card-container-middle': locals[:type] == 'middle-white', 'card-container-bottom': locals[:type] == 'bottom') %>">
+        <h2><%= locals[:title] %></h2>
+            <div class="card-content">
+                <p><%= locals[:text]%></p>
+            </div>
+
+    </div>
+</div>
+
