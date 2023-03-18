@@ -1,21 +1,14 @@
-.card-container {
-    max-width: 60em;
-    /* padding: 3em; */
-    /* margin: 0 3em; */
-}
-
-
 .card-container-top {
-    color: #000000;
-    padding: 3em 0;
+    padding: 3em 1em;
 }
 
 .card-container-middle {
-    background-image: linear-gradient(to top right, #ff003c , #ff4d00);
+    background-image: linear-gradient(to top right, #ff003c, #ff4d00);
     border-radius: 56px;
     color: #ffffff;
     margin: 2em 0;
     padding: 3em;
+    box-shadow: 10px 10px 22px #db000047;
 
 }
 
@@ -32,5 +25,5 @@
 
 
 .card-content {
-display: flex;
+    display: flex;
 }
