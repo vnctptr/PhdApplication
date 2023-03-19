@@ -2,7 +2,7 @@
 
 <div>
   <div
-    class="<%= class_names('card-container-top': locals[:type] == 'top', 'card-container-middle': locals[:type] == 'middle-white', 'card-container-bottom': locals[:type] == 'bottom') %>"
+    class="<%= class_names('card-container-white': locals[:type] == 'white', 'card-container-color': locals[:type] == 'color') %>"
   >
     <h2><%= locals[:title] %></h2>
     <div class="card-content">
