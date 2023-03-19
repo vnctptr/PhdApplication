@@ -18,7 +18,6 @@
           title: "About me",
           text: @about_text
         } %></div>
-
     </div>
 
     <%= render "home/card",
@@ -27,12 +26,8 @@
       title: "Passionate About",
       text: @intro_text
     } %>
-    <%= render "home/card",
-    locals: {
-      type: "white",
-      title: "Other",
-      text: @other_text
-    } %>
+    <%= render "home/card", locals: { type: "white", title: "Other", text: @other_text } %>
+
     <%= render "home/card",
     locals: {
       type: "color",
@@ -40,12 +35,24 @@
       text: @research_text
     } %>
 
-    <div class="downloads-container">
-      <div class="download-card">
-        d
+    <%= render "home/card", locals: { type: "white", title: "Other", text: @other_text } %>
+
+    <div class="container">
+      <div class="column">
+        <%= render "home/card",
+        locals: {
+          type: "color",
+          title: "Resume",
+          text: "View my resume here"
+        } %>
       </div>
-      <div class="download-card">
-        d
+      <div class="column">
+        <%= render "home/card",
+        locals: {
+          type: "color",
+          title: "Document",
+          text: "Download sample document ehre"
+        } %>
       </div>
     </div>
   </div>
