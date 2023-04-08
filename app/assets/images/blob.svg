@@ -1,4 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#ff4d00" d="M57.8,-54.6C73.3,-42.2,83.4,-21.1,82.3,-1.1C81.2,19,69.1,37.9,53.5,53.7C37.9,69.5,19,82.1,2.1,80C-14.8,77.9,-29.6,61.2,-45,45.4C-60.5,29.6,-76.6,14.8,-80.3,-3.7C-84.1,-22.3,-75.5,-44.6,-60,-56.9C-44.6,-69.3,-22.3,-71.7,-0.6,-71.1C21.1,-70.5,42.2,-66.9,57.8,-54.6Z" transform="translate(100 100)" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="141.286 133.525 735.38 771.482"><defs><linearGradient id="b" gradientTransform="rotate(-30 .5 .5)"><stop offset="0%" stop-color="#25045b"/><stop offset="100%" stop-color="#700095"/></linearGradient><clipPath id="a"><path fill="currentColor" d="M800.5 605.5Q668 711 530 843t-268-17Q132 677 142 504.5t138-290Q408 97 572.5 150T835 351.5q98 148.5-34.5 254Z"/></clipPath></defs><g clip-path="url(#a)"><path fill="url(#b)" d="M800.5 605.5Q668 711 530 843t-268-17Q132 677 142 504.5t138-290Q408 97 572.5 150T835 351.5q98 148.5-34.5 254Z"/></g></svg>
