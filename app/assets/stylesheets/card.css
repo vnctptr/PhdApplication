@@ -3,12 +3,11 @@
 }
 
 .card-container-color {
-    background-image: linear-gradient(to top right, #ff003c, #ff4d00);
-    border-radius: 56px;
-    color: #ffffff;
+    background-image: linear-gradient(to top right, #25045b, #570274);
+    border-radius: 1em;
     margin: 2em 1em;
     padding: 3em;
-    box-shadow: 10px 10px 22px #db000047;
+    box-shadow: 1em 1em 3em #7f7bb317;
 
 }
 

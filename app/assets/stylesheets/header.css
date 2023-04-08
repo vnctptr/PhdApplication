@@ -1,4 +1,4 @@
-.header-container{
+.header-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,13 +7,9 @@
 }
 
 
-.header-title {
-    color: #343434;
-    font-size: 10vw;
-    font-family: "Titillium Web", "Trebuchet MS", sans-serif;
-}
-
 .blob {
     width: 50%;
     height: 50%;
+    padding: calc(1.375rem + 1.5vw);
+
 }
