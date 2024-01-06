@@ -1,3 +1,3 @@
 # README
 
-APhD Application website for the Department of Computer Science at the University of Victoria.
+A PhD Application website for the Department of Computer Science at the University of Victoria.
